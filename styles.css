@@ -94,6 +94,12 @@ footer {
   fill: #111;
 }
 
+.heart-nav,
+.locations-nav,
+.contact-nav {
+  display: inline-block;
+}
+
 
 /*--------------------------LOGO STYLES--------------------------*/
 
@@ -162,19 +168,3 @@ footer {
 .contact-nav path:hover {
   animation: turn 1s ease-out forwards;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
